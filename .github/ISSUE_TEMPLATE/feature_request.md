@@ -1,20 +1,19 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+about: Sugérer une idée pour ce projet
+title: 'Feature'
+labels: 'Feature'
+assignees: 'staff'
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Si c'est une simple idée ou si vous avez un pull reaquest avec**
+Ex. Pull Request : oui
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Décrivez brièvement votre idée**
+Ex. J'aimerais ajouter un décor en plus...
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Grande description**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Quelque chose à ajouter dans cette présentation ?**
+Ce peut-être n'importe quoi, si vous en sentez la nécessité.

@@ -14,7 +14,7 @@ Petite description
 Listez les étapes à faire :
 1. Allez dans '...'
 2. Cliquez sur '....'
-3. See error
+3. L'erreur apparaît
 
 **Exception (si il y en a)**
 
@@ -26,5 +26,5 @@ Il est préférable de fournir une preuve visuelle.
  - OS version :
  - Version du jeu :
 
-**Quelque chose à ajouter dans ce report ?**
+**Quelque chose à ajouter dans ce reporte ?**
 Ce peut-être n'importe quoi, si vous en sentez la nécessité.

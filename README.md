@@ -18,22 +18,22 @@ Pour faire ceci, vous devrez dans un premier temp crée un `Pull Request` où vo
 
 Ensuite vous devrez créer une `Issue` avec le modèle `Feature request` et la compléter/changer pour votre cas de figure.
 
-**N'oubliez pas de vous l'asigner à vous même ET de lier votre `Pull Request` à votre `Issue`**
+**Souvenez vous de vous l'asigner à vous même ET de lier votre `Pull Request` à votre `Issue`**
 
 Et c'est tout !
 
 Vous n'avez plus qu'à attendre qu'un membre du staff examine votre demande.
 
 ## Bug
-Si vous avez remarqué la présence d'un bug dans le jeu voici les étapes à suivre :
+Vous avez trouvé un bug ?! Voici les étapes à suivre :
 
 ### Atention !
 
 #### Avant de faire cette démarche assurez vous que le bug n'a pas déjà été reporté dans une Issue antérieure !
 
-Créez une `Issue` avec le modèle `Bug report` et la compléter/fournire les informations demandé.
+Créez une `Issue` avec le modèle `Bug report` et la compléter.
 
-**N'oubliez pas de vous l'asigner à vous même**
+**Souvenez vous de vous l'asigner à vous même**
 
 Votre report sera ensuite analyser par une personne du staff.
 <hr />

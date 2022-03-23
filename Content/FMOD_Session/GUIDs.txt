@@ -1,0 +1,5 @@
+{d380e3da-0079-4a8c-90e4-3315920a693f} bank:/Master
+{4b9dc30e-7102-06ce-16ad-b9eb63f96fa7} bank:/Master.strings
+{6b2e4c12-9e50-4a04-881d-7628cbcc226b} bus:/
+{89830d72-b206-4d9b-b006-14f40bb3248e} bus:/Reverb
+{3a63436e-df26-43ee-952c-530009a7317c} event:/Gun Shoot

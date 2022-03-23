@@ -16,9 +16,6 @@
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-
 # Compiled Static libraries
 *.lai
 *.la
@@ -75,3 +72,6 @@ DerivedDataCache/*
 Content/ZOtherTemplates/*
 !Content/ZOtherTemplates/Bundle_Animations
 !Content/ZOtherTemplates/Bundle_Weapons
+
+# Not Ignore Plugins Files
+!Plugins/*

@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore Files that come with template and other contents
+Content/ZOtherTemplates/*
+!Content/ZOtherTemplates/Bundle_Animations
+!Content/ZOtherTemplates/Bundle_Weapons

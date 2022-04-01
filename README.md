@@ -12,7 +12,9 @@ Pour tout problème venez en parler avec nous sur notre serveur [Discord](https:
 ## Feature
 Si vous voulez nous aider à améliorer ce jeu en ajoutant un bout de code ou de décore vous êtes au bon endroit !
 
-Pour faire ceci, vous devrez dans un premier temp crée un `Pull Request` où vous y ajouterait tout(s) vos changement(s)
+Pour faire ceci, vous devrez dans un premier temp faire un Fork de ce repo, dedans vous ajouterais vos nouveautées.
+
+Puis vous créerez un `Pull Request` de votre Fork jusqu'à ce repo sur la branche develop.
 
 **Veuillez ajouter le tag `Feature` à votre `Pull Request`**
 

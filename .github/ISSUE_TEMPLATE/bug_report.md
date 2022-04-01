@@ -6,6 +6,7 @@ labels: 'Bug'
 assignees: 'staff'
 
 ---
+Nom : 
 
 **Décrivez le bug**
 Petite description

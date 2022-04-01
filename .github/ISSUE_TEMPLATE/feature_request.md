@@ -7,13 +7,12 @@ assignees: 'staff'
 
 ---
 
-**Si c'est une simple idée ou si vous avez un pull reaquest avec**
-Ex. Pull Request : oui
+Nom : 
 
-**Décrivez brièvement votre idée**
-Ex. J'aimerais ajouter un décor en plus...
+Domaine : son, 3D, game design, code etc...
 
-**Grande description**
+Description rapide du projet réalisé :
 
-**Quelque chose à ajouter dans cette présentation ?**
-Ce peut-être n'importe quoi, si vous en sentez la nécessité.
+Guideline lue et suivie ? : ✅ 
+
+Proposé sur discord ou git :

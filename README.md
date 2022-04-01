@@ -12,13 +12,13 @@ Pour tout problème venez en parler avec nous sur notre serveur [Discord](https:
 ## Feature
 Si vous voulez nous aider à améliorer ce jeu en ajoutant un bout de code ou de décore vous êtes au bon endroit !
 
-Pour faire ceci, vous devrez dans un premier temp faire un Fork de ce repo, dedans vous ajouterais vos nouveautées.
+Pour faire ceci, vous devrez dans un premier temp faire un `Fork` de ce repo, car à l'interrieur vous ajouterais vos nouveautées.
 
-Puis vous créerez un `Pull Request` de votre Fork jusqu'à ce repo sur la branche develop.
+Puis vous créerez un `Pull Request` depuis votre Fork jusqu'à ce repo sur la branche develop.
 
 **Veuillez ajouter le tag `Feature` à votre `Pull Request`**
 
-Ensuite vous devrez créer une `Issue` avec le modèle `Feature request` et la compléter/changer pour votre cas de figure.
+Ensuite vous devrez créer une `Issue` (sur ce repo) avec le modèle `Feature request` et la compléter/changer pour votre cas de figure.
 
 **Souvenez vous de vous l'asigner à vous même ET de lier votre `Pull Request` à votre `Issue`**
 
